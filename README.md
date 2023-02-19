@@ -9,6 +9,10 @@ This is JavaPub's gathering place in ChatGPT.
 JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 
 
+- [ChatGPT集成到Siri，教你3步搞定。](https://www.bilibili.com/video/BV1Cs4y1f7QZ/?vd_source=f2a0231e07e27f42fa11f05024479cb8)
+- []()
+- []()
+
 ### WeChat
 
 
