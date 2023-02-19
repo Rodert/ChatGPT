@@ -1,7 +1,9 @@
 # ChatGPT
 This is JavaPub's gathering place in ChatGPT.
 
-这里存放关于 ChatGPT 的信息。 JavaPub 维护人
+---
+
+这里存放关于 ChatGPT 的信息。 JavaPub 维护人撰
 
 
 JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
