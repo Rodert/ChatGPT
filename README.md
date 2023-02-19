@@ -20,6 +20,8 @@ JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 
 
 
+<a name="QQ群"><img src="WechatIMG49.jpeg" alt="QQ"></a>
+
 
 ### B站：
 
