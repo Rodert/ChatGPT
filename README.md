@@ -10,7 +10,7 @@ JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 ### WeChat
 
 
-<a name="公众号"><img src="https://tva4.sinaimg.cn/mw690/007F3CC8ly1h0jpebzb51j3076076glw.jpg" alt="公众号"></a>
+<a name="公众号"><img src="68747470733a2f2f747661342e73696e61696d672e636e2f6d773639302f30303746334343386c793168306a7065627a6235316a33303736303736676c772e6a7067.jpeg" alt="公众号"></a>
 
 
 
