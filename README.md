@@ -5,9 +5,17 @@ This is JavaPub's gathering place in ChatGPT.
 
 这里存放关于 ChatGPT 的信息。 JavaPub 维护人撰
 
-
 JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 
+
+### 账号获取
+
+推荐购买位置：<https://www.fakabang.com/links/B7AAB44C>
+
+无需梯子访问：<http://chatgpt.firstchat.icu/>
+
+
+### 文章
 
 - [ChatGPT集成到Siri，教你3步搞定。](https://www.douyin.com/video/7201771558904319247)
 - []()
@@ -25,7 +33,3 @@ JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 
 https://space.bilibili.com/404747369
 
-
-### 账号
-
-推荐购买位置：<https://www.fakabang.com/links/B7AAB44C>
