@@ -20,15 +20,12 @@ JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 
 
 
-### QQ 群
-
-479339617
-
-
-
-<a name="QQ群"><img src="WechatIMG49.jpeg" alt="QQ"></a>
-
 
 ### B站：
 
 https://space.bilibili.com/404747369
+
+
+### 账号
+
+推荐购买位置：<https://www.fakabang.com/links/B7AAB44C>
