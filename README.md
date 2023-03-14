@@ -10,10 +10,15 @@ JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 
 ### 账号获取
 
+自用账号：
+
 推荐购买位置：<https://www.fakabang.com/links/B7AAB44C>
 
 无需梯子访问：<http://chatgpt.firstchat.icu/>
 
+免费体验：
+
+扫码下面公众号，回复 `chatgpt`
 
 ### 文章
 
