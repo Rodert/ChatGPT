@@ -14,7 +14,7 @@ JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 
 推荐购买位置：<https://www.fakabang.com/links/B7AAB44C>
 
-无需梯子访问：<http://chatgpt.firstchat.icu/>
+无需梯子访问·用爱发电：<http://chatgpt.firstchat.icu/>
 
 免费体验：
 
@@ -23,7 +23,7 @@ JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 ### 文章
 
 - [ChatGPT集成到Siri，教你3步搞定。](https://www.douyin.com/video/7201771558904319247)
-- []()
+- [ChatGPT·用爱发电](https://mp.weixin.qq.com/s/NYWVpu7hic6eOB6jTAG3CA)
 - []()
 
 ### WeChat
