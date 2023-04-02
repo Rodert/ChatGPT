@@ -14,7 +14,7 @@ JavaPub 是一个技术自媒体，关于 ChatGPT 的会发在这里。
 
 推荐购买位置：<https://www.fakabang.com/details/565AC452>
 
-无需梯子访问·用爱发电：<http://chatgpt.daxiangyun.net/>
+无需梯子访问、国内访问 · 用爱发电：<http://chatgpt.daxiangyun.net/>
 
 免费体验：
 
