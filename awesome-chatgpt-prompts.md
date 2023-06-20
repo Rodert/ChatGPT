@@ -1,4 +1,4 @@
-# 160 多种 prompt 提示词指令合集
+# 210 多种 prompt 提示词指令合集
 
 ChatGPT 中文 Prompt 提示词，常用、高频集合
 
